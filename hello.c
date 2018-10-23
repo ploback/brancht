@@ -1,6 +1,6 @@
-#define <stdio.h>
+#include <stdio.h>
 
-int main ()
+void main ()
 {
     printf ("Hello, my name is Loback");
 
